@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Read-the-colors-ember
 
 This README outlines the details of collaborating on this Ember application.
@@ -51,3 +52,6 @@ Specify what it takes to deploy your app.
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 
+=======
+# read_the_colors_ember
+>>>>>>> 6b4b3bda6565630dec62241276f15f99555b739d
